@@ -1,6 +1,6 @@
 # 🚦 TrafficTelligence: Advanced Traffic Volume Estimation with Machine Learning
 
-![Banner](https://github.com/harika1807/TrafficTelligence_Advanced_Traffic_Volume_Estimation_with_Machine_Learning/blob/main/TrafficTelligence_Banner.png)
+![Banner](https://github.com/vyas08/TrafficTelligence-Advanced-Traffic-Volume-Estimation-with-Machine-Learning/blob/main/TrafficTelligence_Banner.png)
 
 **TrafficTelligence** is a machine learning-based web application that predicts traffic volume using environmental and temporal data. By leveraging historical patterns, it provides accurate traffic forecasts to support smart traffic control, urban planning, and commuter decision-making.
 
